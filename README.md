@@ -30,7 +30,7 @@ O projeto, no decorrer de seu desenvolvimento, permitirá o fornecimento de uma 
 
 ## Próximos Passos:
 
-- Ampliar a integração com diferentes formatos de arquivis
+- Ampliar a integração com diferentes formatos de arquivos
 - Melhorar a interação com o usuário, por meio de recursos mais visuais (até o momento o algoritmo funciona por meio do IDE)
 - Continuar o desenvolvimento das funcionalidades do projeto: As funcionalidades descritas acima serão aprimoradas e novas funcionalidades serão adicionadas de acordo com as necessidades dos usuários.
 - Gerar textos prontos para que os professores enviem aos seus alunos com base nos resultados fornecidos pela IA.
