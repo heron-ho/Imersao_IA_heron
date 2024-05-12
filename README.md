@@ -1,4 +1,4 @@
-# Imersao_IA_heron
+# Destaques nas áreas
 Projeto aplicável em instituições educacionais para auxiliar alunos em suas jornadas de aprendizado em escolas com modelos novos de ensino.
 
 ## Projeto Alunos Destaques por Área do Conhecimento
